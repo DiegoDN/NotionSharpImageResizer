@@ -3,7 +3,10 @@
 
 ### Features
 ---
-- This is a simple utility that creates images to put as cover on Notion Posts.
+
+ - This is a simple utility that creates images to put as cover on Notion Posts.
+
+    ![Notion Sharp Image Resizer](https://i.imgur.com/vXqe5U0.jpg) 
 
 - Just load the Book Covers (or drag 'n' drop them into main window) and that's it.
 
